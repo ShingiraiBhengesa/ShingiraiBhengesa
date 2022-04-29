@@ -1,4 +1,4 @@
-![Banner Image](image/banner.gif)
+![Banner Image](image/banner1.gif)
 
 ### Hi there 👋
 
