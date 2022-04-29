@@ -1,3 +1,5 @@
+![Banner Image](image/banner.gif)
+
 ### Hi there 👋
 
 <!--
