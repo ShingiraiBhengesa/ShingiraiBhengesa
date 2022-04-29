@@ -6,7 +6,6 @@ I am an experienced software developer focused on crafting great web experiences
 
 ## Tools and Technologies
 
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -18,17 +17,12 @@ I am an experienced software developer focused on crafting great web experiences
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-<!--
-**ShingiraiBhengesa/ShingiraiBhengesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## More About Me 👩
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m constantly learning and look for the latest updates in the industry.
+- 👯 I’m looking to collaborate on commercial open source projects.
+- 💬 Ask me about anything web development.
+- 🤔 I’m currently on the look oou for remote roles.
+- 📫 Reach me at: shingiengiebhengesa@mail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I studied civil engineering and intrest got me to learn software development
