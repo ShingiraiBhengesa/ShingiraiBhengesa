@@ -19,10 +19,10 @@ I am an experienced software developer focused on crafting great web experiences
 
 ## More About Me 👩
 
-- 🔭 I’m constantly learning and look for the latest updates in the industry.
+- 🔭 I’m constantly learning and looking for the latest updates in the industry.
 - 👯 I’m looking to collaborate on commercial open source projects.
 - 💬 Ask me about anything web development.
-- 🤔 I’m currently on the look oou for remote roles.
+- 🤔 I’m currently on the look out for remote roles.
 - 📫 Reach me at: shingiengiebhengesa@mail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied civil engineering and intrest got me to learn software development
