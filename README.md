@@ -4,7 +4,7 @@
 
 I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability
 
-## Tools and Technologies
+## Tools and Technologies 🧩💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -27,7 +27,7 @@ I am an experienced software developer focused on crafting great web experiences
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied civil engineering and interest got me into software development
 
-## Follow Me Online
+## Follow Me 🚀
 
 <p id="socialIcons" >
     <a href="https://linkedin.com/in/shingirai_bhengesa" alt="LinkedIn">
@@ -42,5 +42,11 @@ I am an experienced software developer focused on crafting great web experiences
         <img src="https://img.shields.io/badge/-Shingirai.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
 </p>
 
+## GitHub Stats 📈
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShingiraiBhengesa&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShingiraiBhengesa&hide_border=true&theme=radical" />
+</p>
 
 
