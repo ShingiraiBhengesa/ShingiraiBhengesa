@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability
+I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
 
 ## Tools and Technologies 🧩💻
 
@@ -25,7 +25,7 @@ I am an experienced software developer focused on crafting great web experiences
 - 🤔 I’m currently on the look out for remote roles.
 - 📫 Reach me at: shingiengiebhengesa@mail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied civil engineering and interest got me into software development
+- ⚡ Fun fact: I studied civil engineering and interest got me into software development.
 
 ## Follow Me 🚀
 
