@@ -44,9 +44,13 @@ I am an experienced software developer focused on crafting great web experiences
 
 ## GitHub Stats 📈
 
-<p align="center">
+<p >
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShingiraiBhengesa&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShingiraiBhengesa&hide_border=true&theme=radical" />
 </p>
 
+---
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShingiraiBhengesa&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
