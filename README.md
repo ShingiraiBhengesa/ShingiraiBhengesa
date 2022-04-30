@@ -26,3 +26,21 @@ I am an experienced software developer focused on crafting great web experiences
 - 📫 Reach me at: shingiengiebhengesa@mail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied civil engineering and interest got me into software development
+
+## Follow Me Online
+
+<p id="socialIcons" >
+    <a href="https://linkedin.com/in/shingirai_bhengesa" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+     <a href="https://github.com/ShingiraiBhhengesa" alt="Github">
+        <img src="https://img.shields.io/badge/-GitHub-3a424f?style=flat-square&logo=github" /></a>
+    <a href="https://hackerrank.com/shingiebhengesa" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
+    <a href="#" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <a href="#" alt="website">
+        <img src="https://img.shields.io/badge/-Shingirai.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+</p>
+
+
+
