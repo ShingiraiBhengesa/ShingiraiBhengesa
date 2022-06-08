@@ -1,9 +1,5 @@
 ![Banner Image](image/banner1.gif)
 
-## Hi there 👋
-
-Im Shingirai, Welcome to my Github Profile
-
 ## Tools and Technologies 🧩💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
