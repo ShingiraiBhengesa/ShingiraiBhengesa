@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am an experienced software developer focused on crafting great web experiences. Im skilled in developing, designing, and conceptualizing interactive websites and great web applications. Im also experienced in maintaining websites and web applications, including content updates, account administration, debugging, feature enhancements and documentations, testing, and regular upgrades to ensure web security and system usability.
+Im Shingirai, Welcome to my Github Profile
 
 ## Tools and Technologies 🧩💻
 
