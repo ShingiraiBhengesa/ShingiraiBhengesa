@@ -1,6 +1,6 @@
 ![Banner Image](image/banner1.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="ShingiraiBhengesa" /> </p>  
 
 
 ## Tools and Technologies 🧩💻
