@@ -1,5 +1,8 @@
 ![Banner Image](image/banner1.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="marurevi" /> </p>  
+
+
 ## Tools and Technologies 🧩💻
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
