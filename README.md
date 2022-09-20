@@ -20,8 +20,6 @@
 - 💬 Ask me about anything web development.
 - 🤔 I’m currently on the look out for remote roles.
 - 📫 Reach me at: shingiebhengesa@mail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I studied civil engineering and interest got me into software development.
 
 ## Follow Me 🚀
 
