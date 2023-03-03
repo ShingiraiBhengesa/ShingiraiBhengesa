@@ -16,9 +16,6 @@
 ## More About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils.
-- 👯 I’m looking to collaborate on commercial open source projects.
-- 💬 Ask me about anything web development.
-- 🤔 I’m currently on the look out for remote roles.
 - 📫 Reach me at: shingiebhengesa@mail.com
 
 ## Follow Me 🚀
@@ -32,8 +29,6 @@
         <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
     <a href="#" alt="StackOverflow">
         <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
-    <a href="#" alt="website">
-        <img src="https://img.shields.io/badge/-Shingirai.me-242424?style=flat-square&logo=circle&logoColor=white" /></a>
 </p>
 
 ## GitHub Stats 📈
