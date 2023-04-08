@@ -2,17 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="ShingiraiBhengesa" /> </p>  
 
-
-## Tools and Technologies 🧩💻
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=c%2b%2b&logoColor=00599C)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-
 ## More About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils.
@@ -25,10 +14,8 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
      <a href="https://github.com/ShingiraiBhhengesa" alt="Github">
         <img src="https://img.shields.io/badge/-GitHub-3a424f?style=flat-square&logo=github" /></a>
-    <a href="https://hackerrank.com/shingiebhengesa" alt="HackerRank">
-        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" /></a>
-    <a href="#" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://twitter.com/bhengesa" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Twitter-3a424f?style=flat-square&logo=twitter" /></a>
 </p>
 
 ## GitHub Stats 📈
