@@ -12,8 +12,6 @@
 <p id="socialIcons" >
     <a href="https://linkedin.com/in/shingirai_bhengesa" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-     <a href="https://github.com/ShingiraiBhhengesa" alt="Github">
-        <img src="https://img.shields.io/badge/-GitHub-3a424f?style=flat-square&logo=github" /></a>
     <a href="https://twitter.com/bhengesa" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-3a424f?style=flat-square&logo=twitter" /></a>
 </p>
