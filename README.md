@@ -4,7 +4,7 @@
 
 ## More About Me 👩
 
-- 🔭 I’m constantly learning and seeking opportunities to grow my skiils.
+- 🔭 I’m constantly learning and seeking for opportunities to grow my skiils.
 - 📫 Reach me at: shingiebhengesa@mail.com
 
 ## Follow Me 🚀
