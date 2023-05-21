@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="ShingiraiBhengesa" /> </p>  
 
-## More About Me 👩
+## About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils.
 - 📫 Reach me at: shingiebhengesa@mail.com
