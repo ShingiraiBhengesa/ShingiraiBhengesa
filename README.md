@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShingiraiBhengesa&label=Profile%20views&color=0e75b6&style=flat" alt="ShingiraiBhengesa" /> </p>  
 
-## About Me 👩
+## More About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils.....
+- 👋 Bonjour, I'm currently learning French
 - 😁 My first line of code was in java
 - ☕️ I like my coffee black
-- 👋 Bonjour, I'm currently learning French
 - 📫 Reach me at: shingiebhengesa@mail.com
 
 ## Follow Me 🚀
