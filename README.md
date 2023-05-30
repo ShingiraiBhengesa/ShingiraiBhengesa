@@ -6,7 +6,7 @@
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils.....
 - 😁 My first line of code was in java
-- ☕️ I like my cofee black
+- ☕️ I like my coffee black
 - 👋 Bonjour, I'm currently learning French
 - 📫 Reach me at: shingiebhengesa@mail.com
 
