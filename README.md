@@ -5,7 +5,7 @@
 ## More About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils....
-- 👋 Bonjour, I'm currently learning French
+- 👋 Bonjour, I'm currently learning French.
 - 📫 Reach me at: shingiebhengesa@mail.com
 
 ## Follow Me 🚀
