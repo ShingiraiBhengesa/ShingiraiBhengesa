@@ -15,6 +15,10 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://twitter.com/bhengesa" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-3a424f?style=flat-square&logo=twitter" /></a>
+   <a href="https://twitter.com/bhengesa" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Instagram-3a424f?style=flat-square&logo=instagram" /></a>
+    <a href="https://twitter.com/bhengesa" alt="Twitter">
+        <img src="https://img.shields.io/badge/-Facebook-3a424f?style=flat-square&logo=facebook" /></a>
 </p>
 
 ## GitHub Stats 📈
