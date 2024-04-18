@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/-Instagram-3a424f?style=flat-square&logo=instagram" /></a>
     <a href="https://www.facebook.com/shingirai.bhengesa" alt="Facebook">
         <img src="https://img.shields.io/badge/-Facebook-3a424f?style=flat-square&logo=facebook" /></a>
-     <a href="https://www.shingiraibhengesa.com/shingirai.bhengesa" alt="Tiktok">
+     <a href="https://www.tiktok.com/@shingiebhengesa" alt="Tiktok">
         <img src="https://img.shields.io/badge/-Tiktok-3a424f?style=flat-square&logo=tiktok" /></a>
 </p>
 
