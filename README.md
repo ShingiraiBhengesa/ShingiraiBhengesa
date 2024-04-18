@@ -6,7 +6,7 @@
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skiils....
 - 👋 Bonjour, I'm currently learning French.
-- 📫 Reach me at: shingiebhengesa@mail.com
+- 📫 Reach me at: shingiebhengesa@gmail.com
 
 ## Follow Me 🚀
 
