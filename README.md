@@ -15,9 +15,9 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
     <a href="https://twitter.com/bhengesa" alt="Twitter">
         <img src="https://img.shields.io/badge/-Twitter-3a424f?style=flat-square&logo=twitter" /></a>
-   <a href="https://twitter.com/bhengesa" alt="Instagram">
+   <a href="https://www.instagram.com/shingiraibhengesa/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-3a424f?style=flat-square&logo=instagram" /></a>
-    <a href="https://twitter.com/bhengesa" alt="Facebook">
+    <a href="https://www.facebook.com/shingirai.bhengesa" alt="Facebook">
         <img src="https://img.shields.io/badge/-Facebook-3a424f?style=flat-square&logo=facebook" /></a>
 </p>
 
