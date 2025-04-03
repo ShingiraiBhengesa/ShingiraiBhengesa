@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=5050&pause=1000&random=false&width=435&lines=Designing%2C+Defining%2C+and+Delivering" alt="Typing SVG" /></a>
 </h1>
 
-## More About Me 👩
+## About Me 👩
 
 - 🔭 I’m constantly learning and seeking opportunities to grow my skills...
 - 👋 Bonjour, I'm currently learning French.
