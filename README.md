@@ -21,13 +21,6 @@
         <img src="https://img.shields.io/badge/-Facebook-3a424f?style=flat-square&logo=facebook" /></a>
 </p>
 
-## GitHub Stats 📈
-
-<p >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShingiraiBhengesa&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShingiraiBhengesa&hide_border=true&theme=radical" />
-</p>
-
 ---
 
 
