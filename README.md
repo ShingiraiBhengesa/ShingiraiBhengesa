@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=5050&pause=1000&random=false&width=435&lines=Hie%2C+I'm%2C+Shingirai" alt="Typing SVG" /></a>
 </h1>
 
@@ -23,6 +23,7 @@
 
 ---
 
+-->
 
 
 
